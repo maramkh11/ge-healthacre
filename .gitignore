@@ -1,0 +1,7 @@
+../task/.idea
+.log
+.iml
+.html
+
+bin/
+traget/
