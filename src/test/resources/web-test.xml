@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GE-Healthcare Assignment">
+    <test name="Google Search Test">
+        <classes>
+            <class name="web.GoogleSearchTest"/>
+        </classes>
+    </test>
+</suite>
